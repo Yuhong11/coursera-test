@@ -1,2 +1,6 @@
 # coursera-test
-Coursera test repository
+## Coursera test repository
+
+* first
+* second
+* third
